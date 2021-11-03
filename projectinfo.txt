@@ -1,0 +1,10 @@
+Can change things that are modular /themes/default.js it is dynamic,
+anything changed in there will be reflected across the entire site
+
+Global components are used /styles/GlobalComponents to reduce redundancy. 
+Things like Button and SectionTitle are used multipule times through out the project
+
+Constants are used /constants/constants.js to make code clean and easy to read. 
+Can also easily change or add to it as more projects are completed
+
+images are in public folder
