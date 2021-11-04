@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Auto Inspector Tool',
-    description: "This is a web application that was built to inspect customers cars that come in for repair. Prepared a POA to successfully create a seamless experience for the users. Coded, tested and developed solutions in alignment with project requirements. Worked closely with business partners to create and deliver high-value solutions to meet their needs.",
+    description: "I was hired by NextGen Agility to create an application for Acura. This web application that built to inspect customer vehicles that come in for repair. Prepared a POA to successfully create a seamless experience for the users. Coded, tested and developed solutions in alignment with project requirements. Worked closely with business partners to create and deliver high-value solutions to meet their needs.",
     image: '/images/A0001-Logo.png',
     tags: ['React', 'Firebase'],
     source: 'https://github.com/MAussem/inspection-react',
