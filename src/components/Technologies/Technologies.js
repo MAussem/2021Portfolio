@@ -1,7 +1,18 @@
-import React from 'react';
-import { DiFirebase, DiReact, DiUbuntu } from 'react-icons/di';
-import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
-import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
+import React from "react";
+import { DiFirebase, DiReact, DiUbuntu } from "react-icons/di";
+import {
+  Section,
+  SectionDivider,
+  SectionText,
+  SectionTitle,
+} from "../../styles/GlobalComponents";
+import {
+  List,
+  ListContainer,
+  ListItem,
+  ListParagraph,
+  ListTitle,
+} from "./TechnologiesStyles";
 
 const Technologies = () => (
   <Section id="tech">
@@ -9,8 +20,8 @@ const Technologies = () => (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range of technologies in the web development world.
-      From Vanilla to Blockchain.
+      I commonly use a range of web technologies including front-end, back-end,
+      and blockchain.
     </SectionText>
     <List>
       <ListItem>
