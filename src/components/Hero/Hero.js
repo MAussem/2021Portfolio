@@ -12,8 +12,7 @@ const Hero = () => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Welcome To <br />
-        My Portfolio
+        Max Aussem
       </SectionTitle>
       <SectionText>
         Multi-talented customer centric developer adept at working with remote
