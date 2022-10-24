@@ -32,7 +32,7 @@ export const projects = [
       "I was hired by NextGen Agility to create an application for Acura. This web application that built to inspect customer vehicles that come in for repair. Prepared a POA to successfully create a seamless experience for the users. Coded, tested and developed solutions in alignment with project requirements. Worked closely with business partners to create and deliver high-value solutions to meet their needs.",
     image: "/images/A0001-Logo.png",
     tags: ["React", "Firebase"],
-    visit: "https://google.com",
+    visit: "https://autochecktool.com/",
     id: 3,
   },
   {
