@@ -54,9 +54,9 @@ export const projects = [
     id: 5,
   },
   {
-    title: "BrownsColoursPlus",
+    title: "Browns Colours Plus",
     description:
-      "My first paid project was the development and design of https://www.brownscoloursplus.com. I used Wix editor and wix code environment (HTML, CSS, JS) to create a landing page for the clients business. Increased web traffic by improving navigation, creating dynamic media sections and adding social media plugins. Did a small amount of SEO.",
+      "My first paid project was the development and design of brownscoloursplus website. I used Wix editor and wix code environment (HTML, CSS, JS) to create a landing page for the clients business. Increased web traffic by improving navigation, creating dynamic media sections and adding social media plugins. Did a small amount of SEO.",
     image: "/images/BCP.png",
     tags: ["Wix Online Editor"],
     visit: "https://www.brownscoloursplus.com/",
